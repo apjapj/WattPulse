@@ -1,0 +1,10 @@
+# WattPulse logs
+wattpulse_*.log
+/tmp/wattpulse_events.log
+
+# Git
+.git/
+
+# OS specific
+.DS_Store
+Thumbs.db
